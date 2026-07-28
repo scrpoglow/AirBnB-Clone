@@ -92,7 +92,7 @@ WanderLust/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WanderLust.git
+git clone https://github.com/scrpoglow/WanderLust.git
 ```
 
 Move into the project folder
@@ -139,6 +139,6 @@ MAP_TOKEN=your_mapbox_access_token
 
 ## 👨‍💻 Author
 
-**Madhura Biswas**
+**Madhura**
 
 GitHub: https://github.com/scrpoglow
