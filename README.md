@@ -1,4 +1,4 @@
-# Airbnb Clone
+# WanderLust
 
 A full-stack web application inspired by Airbnb that allows users to explore, create, edit, and review property listings. It features secure user authentication, image uploads, interactive maps, and a responsive user interface.
 
