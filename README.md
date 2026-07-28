@@ -71,7 +71,7 @@ A full-stack web application inspired by Airbnb that allows users to explore, cr
 ## Project Structure
 
 ```
-WanderLust/
+AirBnB-Clone/
 │
 ├── controllers/
 ├── models/
@@ -92,13 +92,13 @@ WanderLust/
 Clone the repository
 
 ```bash
-git clone https://github.com/scrpoglow/WanderLust.git
+git clone https://github.com/scrpoglow/AirBnB-Clone.git
 ```
 
 Move into the project folder
 
 ```bash
-cd WanderLust
+cd AirBnB-Clone
 ```
 
 Install dependencies
